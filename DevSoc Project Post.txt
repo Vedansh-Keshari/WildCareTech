@@ -1,0 +1,23 @@
+Name of Project: WILDCARETECH
+
+Track: Health and Wellness
+
+Tagline of Project: Empowering Wildlife Guardians.
+
+Built With: figma, html, css, dart, jason, nodejs
+
+About the Project: WildCareTech is a groundbreaking application that revolutionizes the way individuals, 
+			organizations, and communities actively engage in the protection and preservation of wildlife.
+			The users have the ability to report wildlife emergencies, ensuring timely and efficient assistance 
+			to animals in need.By harnessing the power of advanced technologies, we can enhance our understanding 
+			of wildlife health, improve conservation strategies, and ensure the well-being of our precious wildlife 
+			populations.
+
+GitHub Link: https://github.com/brinda06/WildCareTech1/tree/brinda06-patch-1/WildCareTechFinal
+
+Figma Link: https://www.figma.com/file/XZvkwZ0uQsNh4FSlVXnHwl/UNLOCKERS?type=design&node-id=0%3A1&t=BKCh0bkLtbrHwzmi-1 
+
+Video Link: NA
+
+Drive Link: https://drive.google.com/file/d/1I6HHoElAhLAjAob94-dX-TzF1Er8q-SS/view?usp=sharing
+
